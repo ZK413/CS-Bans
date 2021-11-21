@@ -21,7 +21,7 @@
  * @property string $amxban_version Версия плагина
  * @property string $amxban_motd Ссылка на MOTD
  * @property integer $motd_delay Время показа MOTD
- * @property integer $amxban_menu Меню (?)
+ * @property integer $amxban_menu Меню сервера (рудимент ранних версий AMXBans, не используется начиная с версии 4.2)
  * @property integer $reasons Причины
  * @property integer $timezone_fixx Разница во времени
  */
